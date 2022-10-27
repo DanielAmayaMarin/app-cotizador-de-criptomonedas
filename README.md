@@ -1,1 +1,0 @@
-# app-cotizador-de-criptomonedas
